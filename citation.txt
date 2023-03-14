@@ -1,0 +1,6 @@
+@article{REPO-044,
+    author = "Desai, Shrey and Durrett, Greg",
+    journal = "arXiv preprint arXiv:2003.07892",
+    title = "{Calibration of Pre-trained Transformers}",
+    year = "2020"
+}
